@@ -48,4 +48,5 @@ This dashboard serves as a strategic reporting tool for sales and operations tea
 •	Identify high-return items or regions and investigate underlying causes
 •	Segment customers for targeted marketing and better service delivery
 
+[DashBoard Preview](https://github.com/sinhamayank13/Adventure-Works-Sales-Performance-Analysis/blob/main/Assignment%20-%20Sales%20Performance%20Analysis.pdf)
 
